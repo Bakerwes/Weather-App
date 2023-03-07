@@ -22,3 +22,7 @@ THEN I am again presented with current and future conditions for that city
 
 ***
 
+In this application I created all the nessessray javascript to fetch each part of the acceptance criteria. However, I am having complications with my api key. Which is hendering the city information from being displayed. 
+
+***
+URL of deployment:
